@@ -12,6 +12,7 @@
 Добавить 0.0000000000000001 в выражение к double totalBonus:
 
 public class Main {
+    
     public static void main(String[] args) {
         double regularBonus = 0.3;
         double specialBonus = 0.6;
